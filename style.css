@@ -183,6 +183,29 @@ p {
     margin: 10px 0;
     display: inline-block;
 }
+.hobbies{
+    font-size: 2rem;
+    margin-left: 20px;
+    color: #000;
+    text-align: center;
+    margin-top: 20px;
+}
+.Libraries{
+    font-size: 2rem;
+    margin-left: 20px;
+    color: #000;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.tool{
+    font-size: 2rem;
+    margin-left: 20px;
+    color: #000;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 
 p a {
     color: #007bff;
