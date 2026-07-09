@@ -224,6 +224,7 @@ p::before {
     margin-right: 5px;
 }
 
+
 @media (max-width: 768px) {
     .container {
         padding: 0 15px;
@@ -382,6 +383,7 @@ p::before {
         width: 60px;
         height: 60px;
     }
+    
 
     body {
         background-attachment: scroll;
